@@ -72,7 +72,7 @@ The default labeling is the cluster/node index which is rather uninformative, bu
 | Label        | Description          |
 | ------------- |-------------|
 | cluster index | cluster index used globally for each cluster across all networking views |
-| parent mass |  precursor mass of the consensus spectrum |
+| parent mass |  precursor mass of the consensus spectrum - not from GNPS library |
 | LibraryID |  library identification name for the node if a library search were performed |
 | EvenOdd | 1/0 for even or odd depending on the parent mass. Used for nitrogen rule |
 | Peptide | peptide labeling |
